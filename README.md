@@ -40,16 +40,12 @@ Welcome to the Password Manager App, a secure solution built using Flutter to he
 
   Add New Password 1 Page                 |   Add New Password 2 Page        |  Settings Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![Add New Password 1](https://github.com/user-attachments/assets/645dcf49-89a6-427c-8538-25e8a7190a42)|
-![Add New Password 2](https://github.com/user-attachments/assets/a5c6b807-dcb3-428f-be9c-4c65f537c6bc)|
-![Settings](https://github.com/user-attachments/assets/a1449635-576f-43e9-a586-9240c98b4ffb)
+![Add New Password 1](https://github.com/user-attachments/assets/645dcf49-89a6-427c-8538-25e8a7190a42)|![Add New Password 2](https://github.com/user-attachments/assets/a5c6b807-dcb3-428f-be9c-4c65f537c6bc)|![Settings](https://github.com/user-attachments/assets/a1449635-576f-43e9-a586-9240c98b4ffb)
 
 
   Profile Screen Page                 |   Edit Profile Page        |  Forgot Password Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![Profile Screen](https://github.com/user-attachments/assets/7461c5be-a8d8-40cc-854f-7ab549a2ac1f)|
-![Edit Profile ](https://github.com/user-attachments/assets/987e1c41-7a79-42a6-8346-c39f0d9eb4fb)|
-![Forgot Password ](https://github.com/user-attachments/assets/09f95704-0e87-472e-ab6f-1b1e29d10e41)
+![Profile Screen](https://github.com/user-attachments/assets/7461c5be-a8d8-40cc-854f-7ab549a2ac1f)|![Edit Profile ](https://github.com/user-attachments/assets/987e1c41-7a79-42a6-8346-c39f0d9eb4fb)|![Forgot Password ](https://github.com/user-attachments/assets/09f95704-0e87-472e-ab6f-1b1e29d10e41)
 
 
 
@@ -286,8 +282,10 @@ lib
     │   └── snack_bar_widget.dart
     └── widget_export.dart
 ```
-## Video
-[Video](https://github.com/MahmoudAlaa22/make_password_encryption/assets/60518534/e88188ab-c577-4606-907c-91f6241d5d76)
+### 🎬 Watch Demo on Google Drive
+
+[![Watch Video](https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1KyH3VHAWIIs6a32l4latGWHLAhBc-2FF/view)
+
 
 ## Packages
 
