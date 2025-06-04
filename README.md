@@ -34,15 +34,23 @@ Welcome to the Password Manager App, a secure solution built using Flutter to he
 
   Home Page                 |   Security Analysis 1 Page        |  Security Analysis 2 Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Home%20Screen.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Security%20Analysis%201%20.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Security%20Analysis%202.png)
+![Home Screen](https://github.com/user-attachments/assets/cb604adc-9c6f-404f-827b-ba1d662cd82d)|![Security Analysis 1 ](https://github.com/user-attachments/assets/030f28d0-2dad-42fb-b349-9e9ae0da5aa2)|![Security Analysis 2](https://github.com/user-attachments/assets/2c15a20c-f721-448f-ad7b-6ba722bedede)
+
+
 
   Add New Password 1 Page                 |   Add New Password 2 Page        |  Settings Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Add%20New%20Password%201.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Add%20New%20Password%202.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Settings.png)
+![Add New Password 1](https://github.com/user-attachments/assets/645dcf49-89a6-427c-8538-25e8a7190a42)|
+![Add New Password 2](https://github.com/user-attachments/assets/a5c6b807-dcb3-428f-be9c-4c65f537c6bc)|
+![Settings](https://github.com/user-attachments/assets/a1449635-576f-43e9-a586-9240c98b4ffb)
+
 
   Profile Screen Page                 |   Edit Profile Page        |  Forgot Password Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Profile%20Screen.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Edit%20Profile%20.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Forgot%20Password%20.png)
+![Profile Screen](https://github.com/user-attachments/assets/7461c5be-a8d8-40cc-854f-7ab549a2ac1f)|
+![Edit Profile ](https://github.com/user-attachments/assets/987e1c41-7a79-42a6-8346-c39f0d9eb4fb)|
+![Forgot Password ](https://github.com/user-attachments/assets/09f95704-0e87-472e-ab6f-1b1e29d10e41)
+
 
 
 ## Directory Structure
@@ -283,7 +291,8 @@ lib
 
 ## Packages
 
-![packages](https://github.com/MahmoudAlaa22/make_password_encryption/assets/60518534/670cbbd7-ea90-4d08-a22c-d4dc179e568a)
+![323975159-670cbbd7-ea90-4d08-a22c-d4dc179e568a](https://github.com/user-attachments/assets/b73acf2c-ef03-41d5-83be-ce274e6d0364)
+
 
 ## 📣 Feedback
 
