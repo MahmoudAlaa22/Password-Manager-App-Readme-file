@@ -2,7 +2,7 @@
 
 Welcome to the Password Manager App, a secure solution built using Flutter to help you manage your passwords securely and effortlessly.
 
-![Password Manager](https://github.com/MahmoudAlaa22/make_password_encryption/assets/60518534/b8ec26af-4c8d-4604-a168-07a7745ba046)
+![324192795-b8ec26af-4c8d-4604-a168-07a7745ba046](https://github.com/user-attachments/assets/c5e0854f-67bb-485f-a3d6-45b06c0b3bf4)
 
 
 ## ⚙ Tools Used
@@ -29,7 +29,8 @@ Welcome to the Password Manager App, a secure solution built using Flutter to he
 
   Splash Page                 |   Login Page        |  Sign up Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Splash%20Screen.jpeg?raw=true)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Login.png)|![](https://github.com/MahmoudAlaa22/make_password_encryption/blob/develop/Screenshots/Sign%20up.png)
+![Splash Screen](https://github.com/user-attachments/assets/abdc12e7-6eaf-4ae2-b2fe-641e1d39ff8c)|![Login](https://github.com/user-attachments/assets/767d804e-5404-424b-8edf-6a4b29b24992)|![Sign up](https://github.com/user-attachments/assets/1c35c1bd-e606-4aa0-8889-867eff1f47a6)
+
 
   Home Page                 |   Security Analysis 1 Page        |  Security Analysis 2 Page
 :-------------------------:|:-------------------------:|:-------------------------:
